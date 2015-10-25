@@ -1,0 +1,14 @@
+Package: com.theroar.test
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheRoar02
+Filename: ./debs/com.theroar.test_1.0_iphoneos-arm.deb
+Size: 606
+MD5sum: 7ea8273be5042c99f1af33b1271d4ea9
+SHA1: ddfbceb4e453af3a1b14847b856b0037c22ab156
+SHA256: 234b9118f8b48a2ada08fc6c1e9f6c16d7dfce3818fad9385e97cb72b16b8978
+Section: Themes
+Author: TheRoar02
+Name: test
+Sponsor: TheRoar02
+
